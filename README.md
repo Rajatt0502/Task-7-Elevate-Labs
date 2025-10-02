@@ -34,12 +34,12 @@ Reload button to refetch data
 
 ▶️ How to Run
 
-Clone or download this repository.
+Clone or download this repository:
 
-git clone https://github.com/your-username/fetch-api-demo.git
+git clone 
 
 
-Open the project folder in VS Code (or any code editor).
+Open the project folder in VS Code (or any editor).
 
 Open index.html in a Chrome browser (or any modern browser).
 
@@ -51,12 +51,10 @@ Use the Reload button to fetch data again.
 
 🎯 Learning Outcome
 
-Understand async/await in JavaScript
 
-Work with APIs and JSON data
+<img width="1795" height="984" alt="image" src="https://github.com/user-attachments/assets/dd14afc9-11f4-4fb5-89c4-ef151a62a563" />
 
-Handle errors gracefully
+<img width="760" height="204" alt="image" src="https://github.com/user-attachments/assets/34016808-e5f1-4031-aabb-e50ec0d177ac" />
 
-Implement loading states
 
-Use DOM manipulation for dynamic rendering
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b32f94b4-daee-46d2-bbc1-eed62523b72e" />
